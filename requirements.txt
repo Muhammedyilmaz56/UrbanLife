@@ -6,3 +6,7 @@ alembic
 python-jose
 passlib[bcrypt]
 pydantic
+email-validator
+pydantic[email]
+bcrypt==4.0.1
+passlib[bcrypt]==1.7.4
